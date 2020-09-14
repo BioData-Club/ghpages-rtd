@@ -1,1 +1,22 @@
-BioData Club is an informal community at OHSU dedicated to promoting a fun and supportive culture of interdisciplinary co-learning in data science skills and open science principles. We host workshops, along with social events where you can work on personal projects among friends. We welcome everyone at all skill levels who aim to better their skills in all things data. We want to replace statistics anxiety and code fear with inspiration and motivation to learn and share.
+# GitHub Pages Tutorial
+
+This workshop documentation itself is a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
+
+There is a glossary at the end for some common terms used throughout this workshop content.
+
+## Workshop Agenda
+
+1. *(5 min)* What are you hoping to learn today?
+1. *(20 min x4)* 4 Lessons: lecture + hands-on + review
+    - Motivation for self-promotion
+    - Publishing a GitHub Page
+    - The Magic of Markdown
+    - Best practices for sharing your work and strategies for writing a bio
+1. *(5 min)* Open Questions
+
+## What are you hoping to learn today?
+
+Let's take 5 minutes to discuss what you're hoping to learn today.
+
+1. Introduce yourself and what brought you here today
+1. Talk about what you're hoping to learn from this workshop
