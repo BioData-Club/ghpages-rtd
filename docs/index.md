@@ -8,10 +8,10 @@ There is a glossary at the end for some common terms used throughout this worksh
 
 1. *(5 min)* What are you hoping to learn today?
 1. *(20 min x4)* 4 Lessons: lecture + hands-on + review
-    - Motivation for self-promotion
+    - A Personal Website for Professional Outreach
     - Publishing a GitHub Page
     - The Magic of Markdown
-    - Best practices for sharing your work and strategies for writing a bio
+    - Best Practices for Sharing Your Work
 1. *(5 min)* Open Questions
 
 ## What are you hoping to learn today?
