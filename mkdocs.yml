@@ -9,10 +9,10 @@ docs_dir: docs
 
 pages:
     - Lesson Plan: index.md
-    - 1 - Motivation for Self-Promotion: lessons/1.md
+    - 1 - A Personal Website for Professional Outreach: lessons/1.md
     - 2 - Publishing a GitHub Page: lessons/2.md
     - 3 - The Magic of Markdown: lessons/3.md
-    - 4 - Best Practices for Sharing & Writing a Bio: lessons/4.md
+    - 4 - Best Practices for Sharing Your Work: lessons/4.md
 
     - Extra Topics:
         - Introduction: workshop/introduction.md
