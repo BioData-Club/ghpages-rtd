@@ -13,22 +13,17 @@ pages:
     - 2 - Publishing a GitHub Page: lessons/2.md
     - 3 - The Magic of Markdown: lessons/3.md
     - 4 - Best Practices for Sharing Your Work: lessons/4.md
+    - Tips & Tricks: tips-tricks.md
 
     - Extra Topics:
-        - Introduction: workshop/introduction.md
-        - First Steps: workshop/first-steps.md
-        - Your Bio: workshop/your-bio.md
-        - Basic Markdown: workshop/basic-markdown.md
-        - Uploading a Bio Photo: workshop/bio-photo.md
-        - Tips & Tricks: workshop/tips-tricks.md
-        - Adding a menu item: advanced/add-menu.md
-        - Aesthetics & Appearance: advanced/aesthetics.md
-        - Linking External Photos: advanced/external-photos.md
-        - Blog Posts: advanced/blog-posts.md
-        - Embedding Presentations: advanced/presentations.md
-        - Custom Themes: advanced/themes.md
-        - HTML in Markdown: advanced/html-markdown.md
-        - Updating Favorite Icon: advanced/favicon.md
-        - Using GitHub Desktop: advanced/github-desktop.md
+        - Adding a menu item: extra/add-menu.md
+        - Aesthetics & Appearance: extra/aesthetics.md
+        - Linking External Photos: extra/external-photos.md
+        - Blog Posts: extra/blog-posts.md
+        - Embedding Presentations: extra/presentations.md
+        - Custom Themes: extra/themes.md
+        - HTML in Markdown: extra/html-markdown.md
+        - Updating Favorite Icon: extra/favicon.md
+        - Using GitHub Desktop: extra/github-desktop.md
 
     - Glossary: glossary.md
