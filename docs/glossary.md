@@ -14,6 +14,10 @@ The process of interpreting your Markdown files and YAML file into a cohesive do
 
 The Git process of copying a repository's contents and its history into a local (on your own computer) folder for usage.
 
+## Commit
+
+A Git process to save changes into your Git log/history.
+
 ## Documentation
 
 A set of descriptions, instructions, and/or paragraphs used to describe a project's usage, installation, or other utility about the project.
@@ -37,6 +41,10 @@ A popular Git online service.
 ## GitHub Desktop
 
 GitHub's free repository interaction utility.
+
+## GitHub Pages
+
+Websites you can host directly from your GitHub repositories.
 
 ## Hosting
 
@@ -62,9 +70,9 @@ To put a website out publicly.
 
 A Git concept meaning to send commit histories from your local computer to your remote service (GitHub for the sake of this workshop).
 
-## readthedocs.org
+## ReadTheDocs
 
-A free website for hosting your documentation in a popular format.
+A free public (or paid for private) website for hosting your documentation in a popular format.
 
 ## Repository
 

@@ -17,10 +17,10 @@ The ordered shortlist/cheatsheet for the workshop:
     - It might take a minute
 - Still not showing?
     - Try clearing your cache or Incognito Mode or Private Browsing in your web browser
-- Still stuck?  Sticky note!
+- Still stuck?  Raise your hand!
 - Spaces are important in Markdown so make sure you’re using them correctly
-- `[this is a link](https://google.com)`
-- `![this is an image](images/bio-photo.jpg)`
+    - `[this is a link](https://google.com)`
+    - `![this is an image](images/bio-photo.jpg)`
 
 ## Useful Links
 
