@@ -11,7 +11,7 @@ The ordered shortlist/cheatsheet for the workshop:
 
 - Fork button in top right
 - Settings tab just below that
-- Don’t edit the config below the “DO NOT EDIT”
+- Don’t edit the `_config.yml` below the “DO NOT EDIT”
 - Is your website not updated?
     - Commit changes after editing
     - It might take a minute
@@ -32,3 +32,7 @@ Here is where you can read more about customizing the `jekyll-academic` template
 - Jekyll Themes: [http://jekyllthemes.org](http://jekyllthemes.org)
 
 Markdown is not only useful for GitHub Pages. One markdown document can be translated into PDFs, HTML Slides, Word Documents, and a bunch of other formats. We talk about some of the uses here: [http://laderast.github.io/magic-of-markdown](http://laderast.github.io/magic-of-markdown)
+
+## Extra Topics
+
+Read on in the **Extra Topics** drop-down section on the left for commonly requested instructions of how to make more changes to this website template.

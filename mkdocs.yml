@@ -9,7 +9,7 @@ docs_dir: docs
 
 pages:
     - Lesson Plan: index.md
-    - Workshop Logistics:  workshop_logistics.md
+    - Workshop Logistics:  logistics.md
     - 1 - A Personal Website for Professional Outreach: lessons/1.md
     - 2 - Publishing a GitHub Page: lessons/2.md
     - 3 - The Magic of Markdown: lessons/3.md
