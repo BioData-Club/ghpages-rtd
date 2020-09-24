@@ -1,9 +1,16 @@
 # GitHub Pages Tutorial
 
-This workshop documentation itself is a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
+This workshop is documented in a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
 
-There is a glossary at the end for some common terms used throughout this workshop content.
+There is a glossary at the end for common terms used throughout the content.
 
+## About BioData Club
+[BioData Club](https://biodata-club.github.io/) is an interdisciplinary community at OHSU dedicated to promoting a fun and supportive culture of co-learning in data science skills and open science principles. We host workshops and social events where attendees can learn and work on projects among friends and colleagues. Biodata Club welcomes everyone who wants to better their know-how in all things data, regardless of skill level. We want to replace statistics anxiety and code fear with inspiration and motivation to learn and share. BioData Club is supported by the OHSU Library and DMICE.
+## Code of Conduct
+Please read and abide by our [Code of Conduct](https://biodata-club.github.io/code_of_conduct/), which describes the expectations for all who participate in BioData Club events and virtual spaces, and helps us to create a safe and positive experience for everyone.
+
+You can report CoC violations to the session instructors or teaching assistants via chat or email.  If you prefer to report a violation anonymously, [please complete this form](https://ohsu.ca1.qualtrics.com/jfe/form/SV_8joYAQSpzU6kwuN).  Your code of conduct report will be forwarded to a BioData Club member responsible for monitoring for code of conduct violations and receiving reports, and we'll do our best to address the issue as soon as possible.
+ 
 ## Workshop Agenda
 
 1. *(5 min)* What are you hoping to learn today?
