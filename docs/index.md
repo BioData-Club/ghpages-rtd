@@ -48,4 +48,7 @@ This workshop uses talking points and images originally developed in collaborati
 
 Some of the content in this workshop was inspired by [Stacy Konkiel’s]( https://stacykonkiel.org/) work and instruction, most specifically her open access book the [30 Day Impact Challenge]( http://blog.impactstory.org/research-impact-challenge-ebook/). 
 
-The gif that appears in Lesson 4 was sourced from [Giphy]( https://giphy.com/) and created by [Anchor Point](https://www.anchorpoint.work/).  
+The gumball machine gif that appears in Lesson 4 was sourced from [Giphy]( https://giphy.com/) and created by [Anchor Point](https://www.anchorpoint.work/).  
+The otter gif that appears in Lesson 4 was sourced from [Giphy]( https://giphy.com/) and created by [@Justin](https://giphy.com/justin/). 
+
+
