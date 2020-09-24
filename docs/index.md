@@ -41,3 +41,9 @@ This template was developed by [NCSU Libraries](https://www.lib.ncsu.edu/) and i
 - [Eric Leung](mailto:leunge@ohsu.edu)
 - [Eric Earl](mailto:earl@ohsu.edu)
 - [Marijane White](mailto:whimar@ohsu.edu)
+
+## Acknowledgements
+
+This workshop uses talking points and images originally developed in collaboration with [Letisha Wyatt, PhD](https://www.letisharwyatt.com), for the Impact Challenge workshop series developed by the OHSU Library.
+
+Some of the content in this workshop was inspired by [Stacy Konkiel’s]( https://stacykonkiel.org/) work and instruction, most specifically her open access book the [30 Day Impact Challenge]( http://blog.impactstory.org/research-impact-challenge-ebook/). 
