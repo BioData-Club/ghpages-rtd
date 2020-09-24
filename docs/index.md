@@ -47,3 +47,5 @@ This template was developed by [NCSU Libraries](https://www.lib.ncsu.edu/) and i
 This workshop uses talking points and images originally developed in collaboration with [Letisha Wyatt, PhD](https://www.letisharwyatt.com), for the Impact Challenge workshop series developed by the OHSU Library.
 
 Some of the content in this workshop was inspired by [Stacy Konkiel’s]( https://stacykonkiel.org/) work and instruction, most specifically her open access book the [30 Day Impact Challenge]( http://blog.impactstory.org/research-impact-challenge-ebook/). 
+
+The gif that appears in Lesson 4 was sourced from [Giphy]( https://giphy.com/) and created by [Anchor Point](https://www.anchorpoint.work/).  
